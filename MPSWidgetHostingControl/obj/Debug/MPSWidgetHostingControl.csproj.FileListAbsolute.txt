@@ -1,0 +1,7 @@
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\bin\Debug\MpsWidgetHostingControl.dll
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\bin\Debug\MpsWidgetHostingControl.pdb
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\obj\Debug\MPSWidgetHostingControl.csprojResolveAssemblyReference.cache
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\obj\Debug\MpsWidgetHostingControl.MpsWidgetControl.resources
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\obj\Debug\MPSWidgetHostingControl.csproj.GenerateResource.Cache
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\obj\Debug\MpsWidgetHostingControl.dll
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\MPSWidgetHostingControl\obj\Debug\MpsWidgetHostingControl.pdb

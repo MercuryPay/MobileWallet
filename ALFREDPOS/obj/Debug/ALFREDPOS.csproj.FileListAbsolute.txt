@@ -1,0 +1,13 @@
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\ALFREDPOS.exe.config
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\ALFREDPOS.exe
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\ALFREDPOS.pdb
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\MpsWidgetHostingControl.dll
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\MpsWidgetHostingControl.pdb
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.csprojResolveAssemblyReference.cache
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.AlfredPOSForm.resources
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.Properties.Resources.resources
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.csproj.GenerateResource.Cache
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.exe
+C:\Users\dourada\Documents\GitHub\MobileWallet.CSharp\ALFREDPOS\obj\Debug\ALFREDPOS.pdb
