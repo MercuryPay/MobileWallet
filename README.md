@@ -1,5 +1,4 @@
 # MobileWallet
-============
 
 <a href="https://developer.vantiv.com/?utm_campaign=githubcta&utm_medium=hyperlink&utm_source=github&utm_content=gotquestions">Got questions? Connect with our experts on Vantiv ONE.</a>
 
@@ -9,7 +8,8 @@ The goal of this code is to provide an example of how to call the Mercury Mobile
 
 The code was written using Visual Studio 2013 and c#.  The code should transfer between visual studio versions but if you want to compile immediately you will need 2013.
 
-#Contents
+# Content
+
 The solution contains two projects:
 
 1. ALFREDPOS -- a test "pos" that will drive the MpsWidgetHostingControl written in c#.
